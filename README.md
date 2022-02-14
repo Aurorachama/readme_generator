@@ -7,6 +7,8 @@
 * [Installation](#Installation)
 * [User Guide](#User-Guide)
 * [Third Party Package](#Third-party-package-used)
+* [Screenshot](#Screenshot)
+* [Demo](#Demo)
 * [Contact](#Contact)
 
 ## Deploy Link
@@ -59,7 +61,8 @@ Every question is validated so empty response are not allowed
 ![Product of the application](./product.png)
 
 ## Demo
-
+Here is a video demo of how the application will works and where the access the generated file
+[![Video demo](./commencing.png)](https://watch.screencastify.com/v/Ex52W3MWXtKxMxbUEcau)
 ### Contact 
 
 Github: [Aurorachama](https://github.com/Aurorachama)
