@@ -12,7 +12,7 @@
 * [Contact](#Contact)
 
 ## Deploy Link
-https://aurorachama.github.io
+https://github.com/Aurorachama/readme_generator
 
 ## Description 
 
